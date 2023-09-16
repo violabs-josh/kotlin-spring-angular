@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/75377055/how-to-add-angular-to-kotlin-multiplatform-full-stack-application
